@@ -19,7 +19,7 @@ export default class AddProductForm extends Component {
     const { productName, price } = this.state;
     if(productName.length > 0 && price > 0){
       const product = {
-        product_name: productName.trim(),
+        product_name: capitalize(productName.trim()),
         price_in_cents: Math.trunc(price * 100)
       }
       this.props.addProduct(product)
@@ -52,4 +52,8 @@ export default class AddProductForm extends Component {
       </div>
     )
   }
+}
+
+const capitalize = (resourceString) => {
+  return resourceString.charAt(0).toUpperCase() + resourceString.slice(1);
 }
