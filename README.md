@@ -1,5 +1,10 @@
 Deployed at: https://picmeup-dashboard.appspot.com/
 
+# Contributors
+* https://github.com/danovity
+* https://github.com/silentcontrol
+* https://github.com/kpalosot
+
 # What it is
 Owner view of a store.
 
