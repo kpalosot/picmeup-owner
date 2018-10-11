@@ -16,6 +16,7 @@ Owner can
 * Search an order, current or past.
 
 ## Planned added features.
+* Owner can send notification to customer when their order is done.
 * Owner can see analytics of which items are most bought by consumers.
 * Owner can see store inventory.
 * Owner can update the store's quantity for each item in inventory.
