@@ -17,7 +17,7 @@ An owner view of a store with the following features:
 https://picmeup-dashboard.appspot.com/
 
 ## Demo
-https://github.com/kpalosot/picmeup-owner/blob/master/docs/picmeup-owner-demo.gif?raw=true
+![picmeup-owner-demo](https://github.com/kpalosot/picmeup-owner/blob/master/docs/picmeup-owner-demo.gif?raw=true)
 
 ## Tech Stack
 * React
